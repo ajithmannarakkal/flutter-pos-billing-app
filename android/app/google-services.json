@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "7138187439",
+    "project_id": "pos-billing-app-ajith",
+    "storage_bucket": "pos-billing-app-ajith.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:7138187439:android:035aaaee362d5b1d4c1c5a",
+        "android_client_info": {
+          "package_name": "com.example.flutter_pos_billing_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCZUl7JHhE7RjgaR2K5_AgKehunMO9NAjg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

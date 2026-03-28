@@ -1,0 +1,21 @@
+# Flutter build folders
+/build/
+/.dart_tool/
+/.flutter-plugins
+.flutter-plugins-dependencies
+
+# Android
+/android/.gradle/
+/android/app/build/
+
+# iOS
+/ios/Pods/
+/ios/.symlinks/
+/ios/Flutter/Flutter.framework
+/ios/Flutter/Flutter.podspec
+
+# Misc
+*.log
+*.tmp
+*.swp
+.DS_Store
